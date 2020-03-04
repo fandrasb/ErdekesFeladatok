@@ -1,0 +1,30 @@
+1. mérés: 4-et 4-et.
+
+-Ha nem billen el a mérleg, akkor tudom, hogy a maradék négyben van a szabálytalan golyó és a többi szabályos.
+	Ekkor 2. mérés: 2 szabályos 2 még ismeretlennel a 4 ismeretlenből.
+	-Ha elbillen a mérleg (akármelyik irányba), akkor tudom, hogy a 2 ismeretlenből az egyik szabálytalan.
+		Ekkor 3. mérés: az egyik ismeretlent a 2-ből összemérem egy szabályossal.
+		-Ha elbillen a mérleg, akkor megvagyok, mert a szabálytalant mértem egy szabályossal.
+		-Ha nem billen el a mérleg, megvagyok, mert tudom, hogy a nem mért ismeretlen a szabálytalan.
+
+	-Ha nem billen el a mérleg, tudom, hogy a másik 2 ismeretlen (amit eddig nem mértem) egyike a szabálytalan.
+		3. mérés u.a. mint az előző eset.
+
+-Ha elbillen a mérleg, akkor tudom, hogy a mért 8 egyike a szabálytalan és a 4 méretlen szabályos, illetve,
+ hogy vagy a fenti 4 labda egyike nehezebb,vagy a lenti 4 labda egyike könnyebb mint a többi.
+	Ekkor megcserélek 1 db labdát a két oldal között és az egyikről a maradék hármat leszedem
+	(pl. kedvéért legyen ez a könnyebb oldal) és kicserélem 3db ismert szabályosra. Ezekután ebben az állapotban
+	elvégzem a 2. mérést.
+	- Ha a mérleg elbillen és az a fele van fent ahol az egyik potenciális nehezebb és 3 szabályos van, akkor
+	  a két megcserélt gólyó között van a szabálytalan.
+		Ekkor 3. mérés: az egyiket összemérem egy szabályossal.
+		- Ha billen akkor megvagyok, mert a mért ismeretlen a szabálytalan.
+		- Ha nem, megvagyok mert a nem mért ismeretlen a szabálytalan.
+	- Ha a mérleg elbillen és az a fele van fent ahol 3 potenciálisan nehezebb és egy potenciálisan könnyebb van,
+	  akkor tudom, hogy a 3 potenciális nehezebb egyike a szabálytalan.
+		Ekkor 3. mérés: kettőt összemérek a potenciálisan nehezebbekből.
+		- Ha billen megvagyok, mert amelyik magasabban van, az a szabálytalan
+		- Ha nem billen megvagyok, mert a nem mért ismeretlen a szabálytalan
+	- Ha a mérleg nem billen el, tudom, hogy a félretett 3 db potenciálisan könnyebb golyó között van a szabálytalan,
+	  innen mérés u. a. mint amikor tudtam, hogy a 3db potenciálisan nehezebb között van.
+
